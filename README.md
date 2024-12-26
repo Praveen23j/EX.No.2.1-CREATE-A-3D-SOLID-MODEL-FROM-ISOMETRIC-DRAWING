@@ -1,4 +1,4 @@
-# EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
+[Ex_2.1 Drawing v1 (1).pdf](https://github.com/user-attachments/files/18250871/Ex_2.1.Drawing.v1.1.pdf)# EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 ## Date:
 
 ## AIM
@@ -41,36 +41,38 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
  ### STEP-6: Select the Sketch Plane
    Select the FRON SURFACE of rectangular block 
  ### STEP-7: Create a CIRCLE 
-   1.	Select Sketch >CIRCLE  > CENTER CIRCLE.
+   1.	Select Sketch >CIRCLE  > CENTER CIRCLE									.
    2.	Now hover over the origin (center) of the sketch. You should see the cursor snap to this location.
    3.	Click once to begin placing the CIRCLE.
    4.	Type the Tab button and enter the value DIA 100mm .
    5.	Click again to place the circle.
    6.	Click Finish Sketch after completing.
 
- ### STEP-8:  Extrude CIRCLE 
+ ### STEP-8:  Extrude CIRCLE 									
    1.	Select Extrude.
    2.	Select the Rectangle sketch.
    3.	Click again to place the value.
    4.	Type in the value of 20mm. 
-   5.	Press ENTER to accept the value.
+   5.	Press ENTER to accept the value.		
 
- ### STEP-9: Start the sketch command
+ ### STEP-9: Start the sketch command	
    Select Sketch > Create Sketch.
+   	
+ ### STEP-10: Select the Sketch Plane	
+   Select the TOP SURFACE OF RECTANGLE.	
    
- ### STEP-10: Select the Sketch Plane
-   Select the TOP SURFACE OF RECTANGLE.
-   
- ### STEP-11: Create a line
-	1.Select Line command.
+ ### STEP-11: Create a line	
+	1.Select Line command.	
 	2. Draw the projections in the diagram 
-	3. Click Finish Sketch.
+	3. Click Finish Sketch.		
 	4. extrude the sketch.
+	
+## INPUT		
+![image](https://user-images.githubusercont		ent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
+			
 
-## INPUT
-![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
-
-## OUTPUT
-
+## OUTPUT				
+![Screenshot 2024-12-26 132248](https://github.com/user-attachments/assets/b9a9c0d6-9391-447b-b0c8-1bdc22139e71)
+					
 ## RESULT: 
  Thus, the 3D model is created from given isometric drawing.
